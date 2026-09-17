@@ -22,7 +22,7 @@ It is designed to feel like a premium, conscious AI operating system cockpit, co
 ## 🛠️ Technology Stack
 
 * **Backend**: FastAPI (Python 3.8+), Pydantic, Uvicorn, psutil
-* **Frontend**: HTML5, Vanilla CSS, Javascript
+* **Frontend**: HTML5,CSS, Vanilla Javascript
 * **Integrations**: `marked.js` (Markdown parser), `html2canvas` (Screenshot capture), `Phosphor Icons` (UI icons)
 
 ---
